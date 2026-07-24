@@ -1,35 +1,60 @@
-<h1 align="center">Hi 👋, I'm Syed Daniyal Ali</h1>
-<h3 align="center">Senior Mobile Application Engineer | Cross-Platform Architecture | Automation Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm Syed Daniyal Ali</h1>
+<h3 align="center">Senior Mobile Application Engineer | Cross-Platform Architect</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syeddaniyalali&label=Profile%20views&color=0e75b6&style=flat" alt="syeddaniyalali" />
+  <img src="https://komarev.com/ghpvc/?username=syeddaniyalali&label=Profile%20Views&color=02569B&style=flat-square" alt="syeddaniyalali" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Contract-success?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-I'm a software engineer based in Karachi, Pakistan, specializing in building high-performance, scalable cross-platform mobile and web applications. I focus heavily on clean architecture, real-time communication infrastructure, and automated CI/CD pipelines to streamline deployment. 
+### 👨‍💻 About Me
+I'm a software engineer based in **Karachi, Pakistan**, specializing in building high-performance, scalable cross-platform mobile and web applications. My core focus lies in clean architecture, real-time communication systems, and automated CI/CD pipelines.
 
-### 🚀 What I do
-- **Mobile & Web Engineering:** Developing robust cross-platform applications using Flutter and Dart.
-- **Real-Time Systems:** Integrating audio/video streaming (e.g., LiveKit, WebRTC) for seamless communication.
-- **Architecture & Caching:** Designing predictable state management and fast local caching solutions (like Hive).
-- **Automation & CI/CD:** Building automated workflows with GitHub Actions for multi-platform deployments (Firebase Hosting, App Stores).
-- **AI & Custom Workflows:** Exploring AI-driven audio/video generation and leveraging advanced IDE environments (Cursor, Continue.dev) for accelerated development.
-- **Environments:** Comfortable developing across macOS and Linux (Pop!_OS).
+<br>
 
-### 💻 Tech Stack
-- **Frameworks & Languages:** Flutter, Dart
-- **Backend & Infrastructure:** Firebase, LiveKit (Audio/Video Streams), REST APIs
-- **Database & State:** Hive, Clean Architecture, Advanced State Management
-- **DevOps & Tooling:** GitHub Actions, Git, Linux, Custom ROM Environments
+### 🛠️ Tech Stack & Ecosystem
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syeddaniyalali&show_icons=true&theme=radium&hide_border=true" alt="Daniyal's GitHub Stats" />
+<p align="left">
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
+  
+  <!-- Backend & Real-time -->
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-%23CC0000.svg?style=for-the-badge&logo=LiveKit&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+
+  <!-- Database & State -->
+  <img src="https://img.shields.io/badge/Hive-Database-FFB100?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=awslambda&logoColor=white" />
+
+  <!-- DevOps & Tooling -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-IDE-101010?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
-### 📫 Let's Connect
+<br>
+
+### 📈 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syeddaniyalali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniyal's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeddaniyalali&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</p>
+
+<br>
+
+### 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/[Your-LinkedIn-Profile]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:[Your-Professional-Email@example.com]"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/[Your-LinkedIn-Profile]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:[Your-Email]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
