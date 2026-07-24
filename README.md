@@ -1,60 +1,156 @@
-<h1 align="center">Hi there 👋, I'm Syed Daniyal Ali</h1>
-<h3 align="center">Senior Mobile Application Engineer | Cross-Platform Architect</h3>
+<div align="center">
+
+# 👋 Hi, I'm Syed Daniyal Ali
+
+### 🚀 Team Lead • Senior Flutter Engineer • Mobile Architect
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Flutter+Developer;Building+Scalable+Mobile+Apps;Flutter+%7C+Firebase+%7C+LiveKit+%7C+SignalR;Clean+Architecture+Enthusiast;Always+Learning+Something+New"/>
+
+<p>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=SyedDaniyalAli&style=for-the-badge)
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a **Senior Flutter Engineer** passionate about building scalable, production-ready mobile applications.
+
+I enjoy solving complex engineering problems while delivering smooth user experiences.
+
+### 💼 I specialize in
+
+- 📱 Flutter
+- 🎯 Dart
+- ☁ Firebase
+- 📡 SignalR
+- 🎥 LiveKit
+- 🌐 Flutter Web
+- 🔐 Authentication
+- 💬 Realtime Chat
+- 📞 Voice & Video Calling
+- 🏗 Clean Architecture
+- 🧩 REST APIs
+- 📦 Riverpod
+- 🗄 Hive
+- 🍏 iOS
+- 🤖 Android
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 🚀 Current Focus
+
+- 🚀 Enterprise Flutter Apps
+- 💬 Social Platforms
+- 📞 Live Video Calling
+- 🤖 AI Integration
+- 🌍 Flutter Web
+- ⚡ Performance Optimization
+- 🏗 Scalable Architecture
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syeddaniyalali&label=Profile%20Views&color=02569B&style=flat-square" alt="syeddaniyalali" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Contract-success?style=flat-square" alt="Status" />
+
+<img src="https://streak-stats.demolab.com?user=SyedDaniyalAli&theme=github-dark-blue"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedDaniyalAli&theme=github-dark"/>
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I'm a software engineer based in **Karachi, Pakistan**, specializing in building high-performance, scalable cross-platform mobile and web applications. My core focus lies in clean architecture, real-time communication systems, and automated CI/CD pipelines.
+# 🌟 What I Build
 
-<br>
+- 💬 Chat Applications
+- 📞 Audio & Video Calling
+- 🌍 Multilingual Apps
+- 🤖 AI Features
+- 💳 Payment Integration
+- 📍 Maps
+- ☁ Cloud Sync
+- 📦 Offline First Apps
 
-### 🛠️ Tech Stack & Ecosystem
+---
 
-<p align="left">
-  <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
-  
-  <!-- Backend & Real-time -->
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiveKit-%23CC0000.svg?style=for-the-badge&logo=LiveKit&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+# 🤝 Open For
 
-  <!-- Database & State -->
-  <img src="https://img.shields.io/badge/Hive-Database-FFB100?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=awslambda&logoColor=white" />
+- Senior Flutter Roles
+- Team Lead Opportunities
+- Freelance Projects
+- Flutter Consulting
+- Architecture Consulting
 
-  <!-- DevOps & Tooling -->
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-IDE-101010?style=for-the-badge&logo=visualstudio&logoColor=white" />
-</p>
+---
 
-<br>
-
-### 📈 GitHub Stats & Metrics
+# 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syeddaniyalali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniyal's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeddaniyalali&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
-<br>
+---
 
-### 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/[Your-LinkedIn-Profile]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[Your-Email]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### ⭐ "Building apps that people love to use."
+
+</div>
